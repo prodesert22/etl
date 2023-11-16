@@ -4,3 +4,5 @@ The [Blockchain ETL](https://github.com/blockchain-etl) Github organisation is n
 
 Make OS Great Again ;)
 
+# Current things being worked on:
+* Aptos and by extension a Move based integration
