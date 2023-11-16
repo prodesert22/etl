@@ -1,3 +1,7 @@
+#---------------------Community announcemnt----------------
+#   Currently it doesn't appear as if Atpos supports a WS
+#   This can be adjusted once a WS becomes available
+
 import logging
 import os
 import json
